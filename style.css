@@ -1,0 +1,32 @@
+body {
+    background-color: #ced4d8;
+}
+h1 {
+    color: #ac6ac7;
+}
+h2 {
+    color: rgb(255, 165, 0);
+}
+li {
+    color: blue;
+}
+p {
+    background-color: gold;
+}
+
+label {
+    border: 5px dotted pink;
+}
+
+p.first {
+    background-color: #ffff;
+}
+#important {
+border: 3px dashed #00f;
+}
+div {
+    font-size: 30px;
+}
+#email {
+    background-color: #808080;
+}
